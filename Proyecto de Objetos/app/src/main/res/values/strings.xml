@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UniAgenda</string>
+    <string name="tabla_quimica">Tabla Quimica</string>
+
+
+    <string name="Conversor">Conversor de distancia</string>
+    <string name="km">Kilometros</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="ingresa_un_dato">ingresa un dato</string>
+    <string name="button">Ayuda General</string>
+</resources>
